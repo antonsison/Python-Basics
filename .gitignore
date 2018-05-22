@@ -1,0 +1,5 @@
+*.doc
+*.db
+*.pyc
+*media_cdn/
+*static_cdn/
